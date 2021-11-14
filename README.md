@@ -1,5 +1,5 @@
 # Express
-Exercício de criação do framework Express aplicado no curso Web Fullstack da Digital House. 
+Exercício de criação do framework Express aplicado no curso Web Fullstack da Digital House.<br>
 Obs.: É necessária a instalação(passo 2) do Express dentro do projeto que desenvolvemos, todas as vezes que forem necessárias a sua utilização
 
 <ol>
