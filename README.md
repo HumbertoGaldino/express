@@ -11,4 +11,4 @@ Exercício de criação do framework Express aplicado no curso Web Fullstack da 
 <ol>
 <br>
 <br>
-<p>Obs.: É necessária a instalação(passo 2) do Express dentro do projeto que desenvolvemos, todas as vezes que forem necessárias a sua utilização.</p>
+Obs.: É necessária a instalação(passo 2) do Express dentro do projeto que desenvolvemos, todas as vezes que forem necessárias a sua utilização.
